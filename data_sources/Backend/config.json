@@ -1,0 +1,10 @@
+{
+    "name": "Backend",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "Backend",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
